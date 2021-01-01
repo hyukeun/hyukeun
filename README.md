@@ -1,4 +1,12 @@
 ### Hi there 👋
+
+# 안녕하세요. 저는 개발을 공부하며 기록하며 일을 하고 싶은 강은혁입니다.
+
+  - 현재의 codestates에서 공부하며 수료를 하였으며 수료 후 공부하면서 취업준비를 하고있습니다.
+  - 현재의 Github Profile Readme로 Profile 공사중에 있습니다.
+
+
+
 <!--
 **hyukeun/hyukeun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
