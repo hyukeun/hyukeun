@@ -1,7 +1,7 @@
 
-<div style="text-align:center,">
+<p align="center">
   <img src="https://user-images.githubusercontent.com/65886697/103802537-a21a1e00-5092-11eb-8b00-e57432ac888d.png" />
-</div>
+</p>
 
 <h3 align=center>⚒TECK STACK⚒</h3>
 
