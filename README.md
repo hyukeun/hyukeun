@@ -1,6 +1,4 @@
 
-![read](https://user-images.githubusercontent.com/65886697/103798187-b4915900-508c-11eb-982c-deb9651fb95b.png)
-
 # 대체 불가능한 개발자가 되기위한 사람으로 걸어가는 개발자 강은혁 입니다.
 
 #### I'm
