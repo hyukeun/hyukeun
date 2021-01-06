@@ -1,4 +1,7 @@
-<img src="https://user-images.githubusercontent.com/65886697/103799610-a9d7c380-508e-11eb-8fdd-5d7872ba16dc.png" width=100% height=100%/>
+
+<div style="text-align:center,">
+  <img src="https://user-images.githubusercontent.com/65886697/103802537-a21a1e00-5092-11eb-8b00-e57432ac888d.png" />
+</div>
 
 <h3 align=center>⚒TECK STACK⚒</h3>
 
