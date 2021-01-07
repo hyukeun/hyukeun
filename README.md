@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/65886697/103802537-a21a1e00-5092-11eb-8b00-e57432ac888d.png" />
+  <img src="https://user-images.githubusercontent.com/65886697/103901683-cd594780-513c-11eb-9211-2ffd7fdd7e02.png" />
 </p>
 
 <h3 align=center>⚒TECK STACK⚒</h3>
